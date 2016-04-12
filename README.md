@@ -6,6 +6,14 @@ Create a person view component as a same element (same HTML syntax) with differe
 2. **Medium**
 3. **Small**
 
+The component should highlight all persons that are VP (i.e. have the term VP in their title) with a different background color and a border.
+
+Bonus 1:
+When clicking on a small or medium contact, display it in the large contact.
+
+Bonus 2:
+Enable sorting of contacts by drag/drop in the small and medium list.
+
 ![Person view component](/design-spec.fw.png "Spec")
 
 Write as less code as possible, with focus on clean and reusable code. Try to take advantage from frameworks available below or add another familiar to you.
